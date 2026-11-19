@@ -1,7 +1,7 @@
 # Video Perceived Quality: JND Prediction with SVR
 
 Diploma thesis, **Department of Computer Science & Engineering, University of Ioannina** (2025)
-Author: **Panteleimon Kakos** · Supervisor: Prof. Lisimachos P. Kondi
+Author: **Panteleimon Kakos** · Supervisor: Prof. Lisimachos P. Kondis
 
 📄 Full thesis (Greek): [`thesis/KAKOS_5060.pdf`](thesis/KAKOS_5060.pdf)
 
