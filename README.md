@@ -1,9 +1,9 @@
 # Video Perceived Quality: JND Prediction with SVR
 
 Diploma thesis, **Department of Computer Science & Engineering, University of Ioannina** (2025)
-Author: **Panteleimon Kakos** · Supervisor: Prof. Lisimachos P. Kondi
+Author: **Panteleimon Kakos** · Supervisor: Prof. Lisimachos P. Kondis
 
-📄 Full thesis (Greek): [`thesis/KAKOS_5060.pdf`](thesis/KAKOS_5060.pdf)
+Full thesis (Greek): [`thesis/KAKOS_5060.pdf`](thesis/KAKOS_5060.pdf)
 
 ## About
 Finding the **Just Noticeable Difference (JND)** points of a video, meaning the compression levels where viewers start to notice a drop in quality, normally needs long subjective experiments with real viewers.
